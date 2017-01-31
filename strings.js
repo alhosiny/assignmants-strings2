@@ -7,6 +7,7 @@ exports.lengthOfLastWord = function(a){
                    return_sum = sum_length;
                 sum_length = 0;
                 continue;
+                
             }
             else{
                 sum_length++;
